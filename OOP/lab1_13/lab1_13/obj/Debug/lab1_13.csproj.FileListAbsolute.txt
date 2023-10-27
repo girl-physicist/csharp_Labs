@@ -1,0 +1,6 @@
+E:\Labs\C#\OOP\lab1_13\lab1_13\bin\Debug\lab1_13.exe
+E:\Labs\C#\OOP\lab1_13\lab1_13\bin\Debug\lab1_13.pdb
+E:\Labs\C#\OOP\lab1_13\lab1_13\obj\Debug\lab1_13.csproj.AssemblyReference.cache
+E:\Labs\C#\OOP\lab1_13\lab1_13\obj\Debug\lab1_13.csproj.CoreCompileInputs.cache
+E:\Labs\C#\OOP\lab1_13\lab1_13\obj\Debug\lab1_13.exe
+E:\Labs\C#\OOP\lab1_13\lab1_13\obj\Debug\lab1_13.pdb
