@@ -2,7 +2,8 @@
 
 namespace lab1_13
 {
-    public class ForWorkingWithAOneDimensionalArray
+    public class ForWorkingWithAOneDimensionalArray // Дать более адекватное имя. Например OneDimensionArrayWorker
+        
     {
         private int[] array;
         public uint size { get; private set; }
@@ -22,12 +23,12 @@ namespace lab1_13
                 }
                 catch 
                 {
-                  
+                  // где обработка???????
                 }
             }
         }
 
-        public int FindSumOfNotNegativeElementThatIsLeftFirstNotNegativeElement()
+        public int FindSumOfNotNegativeElementThatIsLeftFirstNotNegativeElement() // дать более адекватное имя 
         {
             var sum = 0;
 
@@ -38,7 +39,7 @@ namespace lab1_13
                     break;
                    
                 } 
-                sum += element;
+                sum += element; // в задании требовалось найти произведение
             }
 
             return sum;
